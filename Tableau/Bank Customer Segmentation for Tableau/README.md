@@ -1,1 +1,2 @@
-
+- This is a fictional customer database for a bank in UK.
+- We'll be segmenting the customers by Gender, Balance and Job
